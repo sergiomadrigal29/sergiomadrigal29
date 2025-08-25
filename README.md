@@ -20,48 +20,40 @@
 
 ---
 
-## ⚡ Tecnologías y herramientas
-
 ## 🚀 Tecnologías que uso
 
-### 📝 Lenguajes
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-</p>
+- 📝 **Lenguajes**  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) 
+  ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white)  
 
-### ⚡ Frameworks
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="50" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="50" alt=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" alt="React"/>
-</p>
+- ⚡ **Frameworks**  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white) 
+  ![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white) 
+  ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white) 
+  ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)  
 
-### 🗄️ Bases de datos
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
-</p>
+- 🗄️ **Bases de datos**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) 
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)  
 
-### 🛠️ Otros
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" alt="Linux"/>
-</p>
-
+- ☁️ **Cloud & Otros**  
+  ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white) 
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=tokyonight" height="180"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
@@ -81,7 +73,7 @@
 
 ## 📫 Conecta conmigo
 <p align="center">
-  <a href="madrigalsergio468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=mailto:madrigalsergio468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sergio-daniel-madrigal-valle-a3160a310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
