@@ -1,71 +1,83 @@
+<!-- Encabezado con visitas y seguidores -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=brightgreen" alt="Visitas">  
-  <a href="https://github.com/TU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Siguiendo&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sergiomadrigal29&color=brightgreen" alt="Visitas">  
+  <a href="https://github.com/sergiomadrigal29?tab=followers">
+    <img src="https://img.shields.io/github/followers/sergiomadrigal29?label=Followers&style=social" alt="Followers"/>
   </a>
 </p>
 
-<h1 align="center">¡Hola! Soy Sergio Madrigal 👋</h1>
-<p align="center">Estudiante de Ingeniería en Sistemas de Información. Me apasiona la tecnología, el desarrollo web, y crear soluciones innovadoras.</p>
+<h1 align="center">👋 Hola, soy Sergio Madrigal</h1>
+<p align="center">💻 Estudiante de <b>Ingeniería en Sistemas</b> | Backend & Frontend Developer | Entusiasta de redes y data</p>
 
-<h3 align="center">Visita mi portafolio:</h3>
+---
+
+## 🌐 Portafolio
 <p align="center">
   <a href="https://master-portafoliosmdev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visitar-blue?style=for-the-badge&logo=netlify" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌍%20Mi%20Portafolio-Visitar-blue?style=for-the-badge&logo=netlify" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-##  Habilidades
+## ⚡ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/java/java.png" alt="Java" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/angular/angular.png" alt="Angular" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/react/react.png" alt="React" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/mysql/mysql.png" alt="MySQL" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/sql-server/sql-server.png" alt="SQL Server" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e42/topics/aws/aws.png" alt="AWS" height="40"/>
+  <!-- Lenguajes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="50" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="50" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" alt="React"/>
+
+  <!-- Bases de datos -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
+
+  <!-- Otros -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
 ---
 
-##  Estadísticas y actividad
+## 📊 Estadísticas de GitHub
 
-| Métrica | Widget |
-|--------|--------|
-| GitHub Stats | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight) |
-| Top Lenguajes | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight) |
-| Streak Actual | ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark) |
-| WakaTime (Actividad de coding) | ![WakaTime](https://wakatime.com/badge/user/TU_API_KEY.svg) (si usas WakaTime) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiomadrigal29&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
----
-
-##  Soy más que código  
-> "La creatividad no es una carrera — es una aventura sin fin."  
->  
-> *— Usuario inspirado*  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight" height="180" alt="Streak Stats"/>
+</p>
 
 ---
 
-###  ¿Qué tiene de especial este README?
-
-- **Autoactualización**: estadísticas, streak, lenguajes nunca quedan desfasados.
-- **Visual atractivo**: badges, tablas y alineamientos centrados dan un look moderno.
-- **Fácil de mantener**: solo actualiza tu usuario/GitHub Actions y listo.
-- **Personalidad**: incluye frase, estilo visual y enlace directo a tu portafolio.
-
----
-
-###  Próximos pasos
-
-1. Reemplaza `TU_USUARIO` y `TU_API_KEY` con tus datos reales.
-2. Crea un repositorio con tu usuario como nombre, añade este README.
-3. (Opcional) Configura GitHub Actions para actualizar secciones automáticamente (por ejemplo: blog posts, últimas contribuciones).
-4. Ajusta estilo, colores o añade secciones según lo que quieres destacar.
+## 🎯 Sobre mí
+- 🎓 Estudiante de **Ingeniería en Sistemas (4to año, casi 5to)**  
+- 🚀 Apasionado por **backend con Java, Python, C#** y frameworks como **Spring Boot, Django y .NET**  
+- 🌐 Experiencia con **Angular, React, SQL Server, MySQL y Data Warehouse (SSIS)**  
+- 🔧 Conocimientos en **redes Cisco Packet Tracer (OSPF, EIGRP, RIP, DHCP)**  
+- ✨ Siempre aprendiendo nuevas tecnologías  
 
 ---
 
-Este diseño ofrece una presencia profesional, dinámica y con un toque personal. ¿Te gustaría que lo afinemos con más efectos (modo claro/oscuro, animaciones SVG, citas rotativas, etc.)? ¡Estoy listo para ayudarte a pulirlo!
-::contentReference[oaicite:4]{index=4}
+## 📫 Conecta conmigo
+<p align="center">
+  <a href="mailto:tu-email-aqui"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sergiomadrigal29"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Siempre abierto a colaborar y aprender 🚀
