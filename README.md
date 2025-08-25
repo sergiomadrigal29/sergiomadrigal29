@@ -1,10 +1,3 @@
-<!-- Encabezado con visitas y seguidores -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergiomadrigal29&color=brightgreen" alt="Visitas">  
-  <a href="https://github.com/sergiomadrigal29?tab=followers">
-    <img src="https://img.shields.io/github/followers/sergiomadrigal29?label=Followers&style=social" alt="Followers"/>
-  </a>
-</p>
 
 <h1 align="center">👋 Hola, soy Sergio Madrigal</h1>
 <p align="center">💻 Estudiante de <b>Ingeniería en Sistemas</b> | Backend & Frontend Developer | Entusiasta de redes y data</p>
