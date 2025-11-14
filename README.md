@@ -56,7 +56,7 @@
 ---
 
 ## 🎯 Sobre mí
-- 🎓 Estudiante de **Ingeniería en Sistemas (4to año, casi 5to)**  
+- 🎓 Estudiante de **Ingeniería en Sistemas**  
 - 🚀 Apasionado por **backend con Java, Python, C#** y frameworks como **Spring Boot, Django y .NET**  
 - 🌐 Experiencia con **Angular, React, SQL Server, MySQL y Data Warehouse (SSIS)**  
 - 🔧 Conocimientos en **redes Cisco Packet Tracer (OSPF, EIGRP, RIP, DHCP)**  
