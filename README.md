@@ -56,22 +56,8 @@
 ## 📊 Estadísticas de GitHub
 
 <!-- Widgets principales -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiomadrigal29&show_icons=true&theme=tokyonight&cache_seconds=3600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=tokyonight&cache_seconds=3600)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight)
-
----
-
-## 📈 Actividad
-
-<!-- Fallback estable si stats falla -->
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiomadrigal29&theme=tokyo-night)
-
----
 
 ## 🎯 Sobre mí
 
