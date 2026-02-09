@@ -45,14 +45,16 @@
 
 ## 📊 Estadísticas de GitHub
 
+## 📊 Estadísticas de GitHub
+
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiomadrigal29&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=radical)
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight" height="180" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight" height="180"/>
 </p>
 
 ---
