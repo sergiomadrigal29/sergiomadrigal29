@@ -49,6 +49,8 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomadrigal29&layout=compact&theme=radical)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sergiomadrigal29&theme=tokyonight" height="180" alt="Streak Stats"/>
 </p>
