@@ -10,7 +10,7 @@
 ## 🌐 Portafolio
 
 <p align="center">
-  <a href="https://master-portafoliosmdev.netlify.app/" target="_blank">
+  <a href="https://master-sergio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Mi%20Portafolio-Visitar-blue?style=for-the-badge&logo=netlify"/>
   </a>
 </p>
